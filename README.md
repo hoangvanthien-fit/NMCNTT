@@ -4,13 +4,13 @@
 ## 1. Thông tin cá nhân
 - **Họ và tên:** Hoàng Văn Thiện
 - **Mã số sinh viên:** 2611130223
-- **Lớp:** [Tên lớp của bạn]
-- **Trường:** [Tên trường Đại học của bạn]
+- **Lớp:** [NMCNTT]
+- **Trường:** [trường Đại học Nông Lâm TP.HCM]
 
 ## 2. Sở thích & Định hướng
-- **Sở thích:** Lập trình, đọc sách công nghệ, đá bóng.
+- **Sở thích:** Lập trình, đọc sách công nghệ, chơi game và nằm ườn.
 - **Mục tiêu học tập:** Nắm vững nền tảng CNTT và thành thạo các công cụ làm việc nhóm/quản lý mã nguồn.
 
 ## 3. Liên hệ
-- **Email:** [Email sinh viên của bạn]
+- **Email:** [2611130223@st.hcmuaf.edu.vn]
 - **GitHub:** [Link profile GitHub của bạn]
